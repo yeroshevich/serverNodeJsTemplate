@@ -1,4 +1,4 @@
-#prisma migrate dev --name init
+// prisma migrate dev --name init
 
 generator client {
   provider = "prisma-client-js"
